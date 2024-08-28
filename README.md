@@ -8,7 +8,6 @@ With a career spanning over a decade, I've held various roles that have honed my
 
 ### 🛠️ Skills & Technologies
 - **Languages:** SQL, Python, Java (learning)
-- **Technologies:** StreamSets, Hadoop, Power BI, Tableau, Spark, MicroStrategy, Snowflake
 
 ### 🌟 Notable Achievements
 - Designed and implemented a **Coronavirus response reporting tool** that won an industry award for its impact.
