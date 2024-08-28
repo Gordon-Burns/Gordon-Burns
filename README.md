@@ -1,25 +1,22 @@
-# Exploring Python and Data Expertise
+## 👋 Hi, I'm Gordon Burns
 
-Hello! I'm currently enhancing my skill set by delving into Python, adding another layer to my programming proficiency that already includes C++, Visual Basic, and various SQL dialects.
+### 🧠 Summary
+I am an experienced **Consulting Manager** with a strong background in data solutions and business intelligence. My expertise lies in developing innovative strategies that meet clients' data needs, driving impactful decisions through robust data platforms and tools. I have a proven track record of delivering complex projects that optimize business operations, enhance decision-making processes, and significantly reduce operational risks.
 
-## About Me
+### 💼 Professional Experience
+With a career spanning over a decade, I've held various roles that have honed my skills in data engineering, system consulting, and business intelligence. I’ve led large teams, managed critical IT services, and played a pivotal role in designing award-winning data solutions.
 
-I bring a wealth of experience as a consulting manager with a strong command of SQL in its many forms. Throughout my career, I've embraced programming languages like C++ and Visual Basic. My journey has also included building applications with Oracle APEX.
+### 🛠️ Skills & Technologies
+- **Languages:** SQL, Python, Java (learning)
+- **Technologies:** StreamSets, Hadoop, Power BI, Tableau, Spark, MicroStrategy, Snowflake
 
-## What's Inside
+### 🌟 Notable Achievements
+- Designed and implemented a **Coronavirus response reporting tool** that won an industry award for its impact.
+- Developed Power BI dashboards for HR data analysis, significantly improving decision-making.
+- Led a team to build a data platform, reducing duplicate traffic by 85% and enabling near real-time analytics.
 
-This repository documents my ongoing Python learning journey and showcases projects reflecting my diverse coding background:
+### 🚀 Current Focus
+I am currently expanding my technical skills by diving deeper into **Java** to further enhance my programming capabilities.
 
-
-- **Python Projects:** Explore Python scripts and projects that underline my transition to this versatile language.
-
-
-## Get in Touch
-
-I'm open to collaboration, discussions, and sharing knowledge. You can reach me to connect @ [LinkedIn](https://www.linkedin.com/in/gordon-burns-8770784b/).
-
-## Let's Learn and Progress
-
-Join me as I navigate the world of Python and continue to leverage data expertise. Learning is an ongoing journey, and I look forward to connecting with fellow learners and professionals.
-
-Stay curious and keep coding!
+### 🤝 Let's Connect
+Feel free to explore my projects, and connect with me on [LinkedIn](https://www.linkedin.com/in/gordon-burns-8770784b/) or [GitHub](https://github.com/Gordon-Burns). I'm always open to new opportunities and collaborations!
