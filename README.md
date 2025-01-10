@@ -1,21 +1,24 @@
-## 👋 Hi, I'm Gordon Burns
+# Hi, I'm Gordon Burns 👋
 
-### 🧠 Summary
-I am an experienced **Consulting Manager** with a strong background in data solutions and business intelligence. My expertise lies in developing innovative strategies that meet clients' data needs, driving impactful decisions through robust data platforms and tools. I have a proven track record of delivering complex projects that optimize business operations, enhance decision-making processes, and significantly reduce operational risks.
+Welcome to my GitHub profile! I'm an experienced professional with a diverse background spanning many roles and industries. 
 
-### 💼 Professional Experience
-With a career spanning over a decade, I've held various roles that have honed my skills in data engineering, system consulting, and business intelligence. I’ve led large teams, managed critical IT services, and played a pivotal role in designing award-winning data solutions.
+## About Me
 
-### 🛠️ Skills & Technologies
-- **Languages:** SQL, Python, Java (learning)
+- 🌟 **Career Highlights:**
+  - Global award-winning MicroStrategy developer.
+  - Developed a Generative AI agent that significantly reduced HR inquiries and is used within production still.
+  - Rolled out a global reporting suite for a Forbes 100 company.
+  - Implemented and maintained a data platform for a Tier 1 bank.
 
-### 🌟 Notable Achievements
-- Designed and implemented a **Coronavirus response reporting tool** that won an industry award for its impact.
-- Developed Power BI dashboards for HR data analysis, significantly improving decision-making.
-- Led a team to build a data platform, reducing duplicate traffic by 85% and enabling near real-time analytics.
+- 🚀 **Current Focus:**
+  - Generative AI and Retrieval-Augmented Generation (RAG).
+  - Advanced Python development.
+  - Cloud technologies and solutions.
 
-### 🚀 Current Focus
-I am currently expanding my technical skills by diving deeper into **Java** to further enhance my programming capabilities.
+## Let's Collaborate
+I'm always open to exploring innovative projects and collaborating with others passionate about AI, data, and cloud-based solutions. If you're interested in working together, feel free to reach out!
 
-### 🤝 Let's Connect
-Feel free to explore my projects, and connect with me on [LinkedIn](https://www.linkedin.com/in/gordon-burns-8770784b/) or [GitHub](https://github.com/Gordon-Burns). I'm always open to new opportunities and collaborations!
+## Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/gordon-burns-8770784b/)
+
+Thanks for stopping by! Feel free to explore my repositories and leave a star ⭐ if you find something interesting.
